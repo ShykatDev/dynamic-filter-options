@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "MacBook Pro",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "2099",
+    "img": "images/macbook.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Hp",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "1299",
+    "img": "images/hp.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Dell",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "999",
+    "img": "images/dell.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Asus",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "799",
+    "img": "images/asus.jpg"
+  }
+]

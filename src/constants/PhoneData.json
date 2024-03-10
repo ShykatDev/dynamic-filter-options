@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Iphone 14 pro",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "1099",
+    "img": "images/iphone14.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Iphone 15 pro",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "1299",
+    "img": "images/iphone15.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Samsung s24 ultra",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "999",
+    "img": "images/samsung.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Pixel 8 pro",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima adipisci sit quisquam ratione molestiae minus illum.",
+    "price": "799",
+    "img": "images/pixel.jpg"
+  }
+]
